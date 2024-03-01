@@ -1,2 +1,0 @@
-1. Duplicate Emails (Easy) = https://leetcode.com/problems/duplicate-emails/description/ 
-2. Customers Who Never Order (Easy) = https://leetcode.com/problems/customers-who-never-order/
