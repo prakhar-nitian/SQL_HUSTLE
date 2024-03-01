@@ -1,0 +1,11 @@
+
+Accepted : Run Time = 889 ms
+select name as Customers from customers c
+left join orders o
+on c.id = o.customerid
+where o.customerid is null
+
+Accepted : Run Time = 412 ms
+select Name as Customers From Customers
+Where Id NOT IN (
+select CustomerId from Orders) ;
